@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa07a8a55c54b16a7b0f17cee015c1121ce7248c2",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa07a8a55c54b16a7b0f17cee015c1121ce7248c2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PixelBunniesOfficial",
+  "SYMBOL": "PB",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/PixelBunniesOfficial",
+  "SHOW_BACKGROUND": false
+}
